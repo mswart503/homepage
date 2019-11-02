@@ -1,4 +1,6 @@
-
+.green {
+  background-color: #65a651;
+}
 
 body {
   background-color: #2a6617;
@@ -21,6 +23,20 @@ body {
 .jumbotron {
   background: #65a651;
 }
+
+.well {
+  background: #65a651;
+  border-color: #65a651;
+}
+
+.short {
+  height: 200px;
+}
+
+.black{
+  color:black;
+}
+
 @media screen and (min-width:600px){
   .title {
     font-size: 35px;
