@@ -1,0 +1,48 @@
+
+
+body {
+  background-color: #2a6617;
+}
+
+.center {
+  text-align: center;
+}
+
+.thin {
+  width: 300px;
+  height: 400px
+}
+
+.title {
+  font-family: cursive;
+  font-size: 30px;
+}
+
+.jumbotron {
+  background: #65a651;
+}
+@media screen and (min-width:600px){
+  .title {
+    font-size: 35px;
+    padding-top: 20px;
+  }
+}
+
+@media screen and (min-width:800px){
+  .title {
+    font-size: 40px;
+  }
+}
+
+@media screen and (min-width:1000px){
+  .title {
+    font-size: 60px;
+  }
+}
+
+@media screen and (min-width:1200px){
+  .title {
+    font-size: 70px;
+    padding-top: 20px;
+  }
+}
