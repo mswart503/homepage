@@ -28,6 +28,10 @@ li {
   text-align: center;
 }
 
+.left {
+  text-align: left;
+}
+
 .thin {
   width: 300px;
   height: 400px
@@ -81,11 +85,23 @@ li {
   float: right;
 }
 
+.photoleft{
+  float: left;
+}
+
 .fitbox{
   width:inherit;
   height:inherit;
 }
 
+.not-this-list{
+  background-color: #65a651;
+  color: white;
+}
+
+#codingskillz{
+  font-family: fantasy;
+}
 @media screen and (min-width:600px){
   .title {
     font-size: 35px;
