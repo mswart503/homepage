@@ -69,6 +69,23 @@ li {
   margin-right: 5px;
 }
 
+.white{
+  color: white;
+}
+
+.aboutmeborder{
+  border-color: black;
+}
+
+.photoright{
+  float: right;
+}
+
+.fitbox{
+  width:inherit;
+  height:inherit;
+}
+
 @media screen and (min-width:600px){
   .title {
     font-size: 35px;
